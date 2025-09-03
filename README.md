@@ -4,7 +4,7 @@
 ❤️ Me apasiona trabajar con datos y encontrar insights que generen valor.  
 🎓 Soy Ingeniera Civil Industrial, con experiencia en sector de telecomunicaciones y educación superior.  
 💼 Actualmente trabajo en educación superior en el área de presupuesto, aplicando herramientas de análisis y visualización para la toma de decisiones.
-🌱 Me encanta aprender constantemente y seguir creciendo profesionalmente en **Análisis y Ciencia de Datos**.  
+🌱 Me encanta aprender constantemente y seguir creciendo profesionalmente en Análisis y Ciencia de Datos.  
 
 ## 🛠 Habilidades Técnicas
 
