@@ -22,9 +22,9 @@
 
 ## 📫 Contacto 
 
-📧 **Email:** [dleonr@gmail.com](mailto:dleonriva@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/dalealeon](https://www.linkedin.com/in/dalia-leon-r/)  
-📂 **Portafolio:** [tu-portafolio.github.io](https://dleonriva.github.io/)
+📧 **Email:** [dleonriva@gmail.com](mailto:dleonriva@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/dalia-leon-r](https://www.linkedin.com/in/dalia-leon-r/)  
+📂 **Portafolio:** [dleonriva.github.io](https://dleonriva.github.io/)
 
 
 
